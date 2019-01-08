@@ -17,3 +17,4 @@ def nationGradeUpdate(AF=r'.\nationGrade\gradeFile\gradeAF.xls',
             print(nt() + ' DTC nation grade update done!')
     except Exception as e:
         print(nt() + ' nationGradeUpdate error ：' + str(e))
+        
