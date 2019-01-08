@@ -29,5 +29,4 @@ def jobTran(file=r'D:\scheduleJob\fileConfig\jobRecord.xls'):
     # print(app)
     return app
 
-
 # jobTran(file=r'D:\scheduleJob\fileConfig\jobRecord.xls')
