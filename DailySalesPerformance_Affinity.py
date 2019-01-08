@@ -110,3 +110,4 @@ try:
         dsp_by=r"\\SZVMDBSQETL01\TM ShareFolder\tm_mis_day2\07_Pre Prodution\Milestone1\\")
 except Exception as e:
     print( nt()+' DailySalesPerformanceAffinity error：'+str(e))
+    
