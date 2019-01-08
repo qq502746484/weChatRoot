@@ -47,6 +47,5 @@ def config(msg,name,item,wkhti,image,excel,txt,pathBy,reExcel):
                         itchat.send_image(image, item)
                         itchat.send(u'@%s : %s' % (name, ref[key]), item)
                     break
-
     else:
         pass
