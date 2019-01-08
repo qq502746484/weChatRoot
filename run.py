@@ -32,3 +32,4 @@ if __name__ == '__main__':
             t2.join()
         except Exception as e:
             print( nowTime()+' threading run error：：' + str(e))
+            
