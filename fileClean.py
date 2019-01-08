@@ -34,6 +34,7 @@ def crrData(excel):    # crr_file配置
     nrows = table.nrows  # 行数
     wb = xlutils.copy.copy(fh)  # 写入不覆盖
     ws = wb.get_sheet(1)  # 获取sheet对象
+   
 
     for i in range(1,nrows):
         ws.write(i, 2, " ")
