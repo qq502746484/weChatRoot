@@ -34,6 +34,7 @@ def lc():
 def ec():
     print(nowTime()+' itchat exit')
     run()
+    
 
 def chatRoom(excel):
     fn=xlrd.open_workbook(excel)
