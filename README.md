@@ -1,1 +1,3 @@
 # WeChatRoot
+
+print("hello world！")
