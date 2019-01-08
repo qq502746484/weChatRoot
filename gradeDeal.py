@@ -316,7 +316,6 @@ def run(excel,text,txt,pathBy,wkhti=None):
     htmlToImage(file_path_by=pathBy,wkhti=wkhti)  # html转图片
 
     return reply
-
 # reGarde=run(excel=r'.\gradeFile\grade.xls',
 #            text=r'@小月儿 cmbsh：80W',
 #            txt=r'.\gradeFile\grade.txt',
