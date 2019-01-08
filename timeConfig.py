@@ -3,7 +3,6 @@ import json,datetime
 import urllib,requests
 import calendar
 
-
 def nowtime():
     nowTime = datetime.datetime.now().strftime('%Y%m%d')
     return nowTime
